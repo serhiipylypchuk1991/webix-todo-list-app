@@ -1,0 +1,11 @@
+[
+	{ "id":1, "task":"English lessons (Monday 12:00)", "status":true, "star":false },
+	{ "id":2, "task":"Yoga (Monday 16:00)", "status":true, "star":true },
+	{ "id":3, "task":"Shopping (Tuesday)", "status":true, "star":false },
+	{ "id":4, "task":"Cleaning (Wednesday)", "status":true, "star":true },
+	{ "id":5, "task":"Washing (Wednesday)", "status":true, "star":true },
+	{ "id":6, "task":"Dinner with relatives (Monday)", "status":false, "star":false },
+	{ "id":7, "task":"Meeteng with Joe and Mary", "status":false, "star":false },
+	{ "id":8, "task":"Yoga (Friday 18:00)", "status":false, "star":false },
+	{ "id":9, "task":"Shopping (Saturday)", "status":false, "star":false }
+]
