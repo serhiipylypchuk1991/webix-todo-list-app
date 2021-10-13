@@ -1,0 +1,79 @@
+.star_icon, .undo_icon, .complete_icon, .delete_icon{
+  width:50px;
+  padding-top:5px;
+  text-align:center;
+  float:right;
+	color:#4AA2C1;
+	cursor:pointer;
+}
+
+.mdi-star{
+	color:#ebc334;
+}
+
+.delete_icon:hover{
+	color:red;
+}
+
+.undo_icon:hover, .complete_icon:hover{
+	color:green;
+}
+
+.webix_icon.mdi.mdi-playlist-check{
+	font-size:20pt;
+	padding:5px;
+}
+
+.custom_item{
+  border:1px solid #4AA2C1;
+  border-radius:5px;
+  margin:9px 9px;
+	background-color:rgba(252, 252, 252, 0.81);
+  padding:7px;
+	font-size:14pt;
+	cursor:default;
+}
+
+.webix_icon.mdi.mdi-drag{
+	cursor:move;
+	color:#4AA2C1;
+}
+
+.webix_drag_zone{
+	left:-9px !important;
+}
+
+.webix_drop_area{
+	background-color:white;
+	cursor:move;
+}
+
+.webix_drag_zone .custom_item{
+	color:black;
+	padding-left:16px;
+	padding-right:16px;
+}
+
+
+.webix_dt_editor > input{
+  border-radius:5px !important;
+  margin:9px 0 ;
+	font-size:14pt;
+	height:46px;
+}
+
+.webix_list_item.custom_item.webix_selected{
+	background-color: #cbeaf5;
+	border:1px solid #4AA2C1;
+	margin-left:9px;
+	margin-right:9px;
+	padding-top:7px;
+	padding-right:7px;
+	padding-left:7px;
+}
+ .done{
+	 color:red;
+	 display:inline-block;
+	 width:60px;
+	 padding-left:10px;
+ }
